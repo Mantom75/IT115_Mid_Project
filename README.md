@@ -1,3 +1,3 @@
 # IT115_Mid_Project
 
-Christopher Huynh
+**Christopher** *Huynh*
